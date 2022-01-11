@@ -1,0 +1,6 @@
+- Bacon
+- Eggs
+- Cheese
+- Onion
+- Mushroom
+- Butter
