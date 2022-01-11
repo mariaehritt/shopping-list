@@ -4,3 +4,6 @@
 - Onion
 - Mushroom
 - Butter
+- Salt
+- Pepper
+- Red Pepper Flakes
